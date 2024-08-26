@@ -80,7 +80,7 @@ Para a construção e execução do projeto foram utilizadas as seguintes tecnol
 
 | Aluno                                                  | Matrícula    | E-mail                                      |
 | ------------------------------------------------------ | ------------ | ------------------------------------------- |
-| [Eli Sidney Bicalho Santos](https://github.com/Elibicalho86) | 202308951289 | [📧](mailto:202212181407@alunos.estacio.br) |
+| [Eli Sidney Bicalho Santos](https://github.com/Elibicalho86) | 202308951289 | [📧](mailto:202308951289@alunos.estacio.br) |
 
 ## 📃 Licença
 
